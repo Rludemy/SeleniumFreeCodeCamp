@@ -6,7 +6,7 @@ on:
   push:
     branch:
       - "**" # This will run on all the branches and must be quoted to be handled by yaml
-      -
+
 # What Jobs To Execute
 jobs:
 
